@@ -20,7 +20,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://112.124.110.38:8080/fangtai</string>
+                        <string>http://10.250.62.18:8080/fangtai</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -28,7 +28,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://112.124.110.38:8080/fangtai</string>
+                        <string>http://10.250.62.18:8080/fangtai</string>
                     </dict>
                 </array>
                 <key>metadata</key>
