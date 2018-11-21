@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://es.fotile.com</string>
+                        <string>http://47.96.101.225:9000</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://es.fotile.com</string>
+                        <string>http://47.96.101.225:9000</string>
                     </dict>
                 </array>
                 <key>metadata</key>
